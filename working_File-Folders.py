@@ -13,7 +13,7 @@ for each_File in files_List:
         continue
     
 
-# Craete folders based on types of files
+# Craete folders based on type of files
 def creat_folders():
     for items in extension_Set:
         if items == 'py':
