@@ -31,7 +31,7 @@ while game_status== 'Continue':
     sum_of_dice= sum(die_value)
     if sum_of_dice== my_point:
         game_status= 'Win'
-    elif sum_of_dice== 10:
+    elif sum_of_dice== 7:
         game_status= 'Lost'
 if game_status == 'Win':
     print('Player Wins')
