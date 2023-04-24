@@ -22,7 +22,15 @@ Rules of the game:
 ### Number Guessing
 
       This  Python project is a  game that generates a random number that the user must guess after receiving hints. For each wrong guess the user makes, they receive extra hints, but at the cost of reducing their final score.
-
+      
+### To-Do List
+      Create a program that allows a user to add and remove tasks from a to-do list. The program should keep track of the tasks in a list.
+      
+### Grocery List
+      Create a program that allows a user to add and remove items from a grocery list. The program should keep track of the items in a list.
+      
+### Hangman Game
+      Create a hangman game that randomly selects a word from a list and allows the player to guess letters until they either solve the word or run out of guesses.
 
 
 
