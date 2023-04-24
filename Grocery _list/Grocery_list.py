@@ -1,3 +1,4 @@
+#Defining a list of items
 grocery_list=[]
 
 while True:
