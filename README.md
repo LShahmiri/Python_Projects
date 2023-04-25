@@ -31,7 +31,8 @@ Rules of the game:
       
 ### Hangman Game
       Create a hangman game that randomly selects a word from a list and allows the player to guess letters until they either solve the word or run out of guesses.
-
+### Word-count
+      reads in a sentence from the user and counts the number of times each word appears in the sentence. The program should print out a dictionary where each key is       a unique word and the corresponding value is the number of times that word appears in the sentence.
 
 
     
