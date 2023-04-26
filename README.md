@@ -12,36 +12,37 @@
     A simple code about how we can move files in their Corresponding folders
 
 
-### Game of Craps in Python
+### Game of Craps in Python:
 Rules of the game:
 
     Two dices are required to play and a player rolls two six-sided dice and adds the numbers rolled together.
     If on the first roll a player encounters a total of 7 or 11 the player automatically wins, and if the player rolls a total of 2, 3, or 12 the player automatically loses, and play is over.
     If a player rolls a total of 4, 5, 6, 8, 9, or 10 on their first roll, that number becomes the ‘point. Then the player continues to roll the two dice again until one of two things happens either they roll the ‘point’ again, in which case they win, or they roll a 7, in which case they lose.
     
-### Number Guessing
+### Number Guessing:
 
       This  Python project is a  game that generates a random number that the user must guess after receiving hints. For each wrong guess the user makes, they receive extra hints, but at the cost of reducing their final score.
       
-### To-Do List
+### To-Do List:
       Create a program that allows a user to add and remove tasks from a to-do list. The program should keep track of the tasks in a list.
       
-### Grocery List
+### Grocery List:
       Create a program that allows a user to add and remove items from a grocery list. The program should keep track of the items in a list.
       
-### Hangman Game
+### Hangman Game:
       Create a hangman game that randomly selects a word from a list and allows the player to guess letters until they either solve the word or run out of guesses.
-### Word-count
+      
+### Word-count:
       Reads in a sentence from the user and counts the number of times each word appears in the sentence. The program should print out a dictionary where each key is       a unique word and the corresponding value is the number of times that word appears in the sentence.
       
-### Password Generator
+### Password Generator:
     A program that generates a random password for the user. The password should be 8 characters long and should include a mix of uppercase letters, lowercase         letters, and digits. The program should print out the generated password.
-    
     
     
 ### Matrix Multiplication:
     A program that takes in two matrices as input and performs matrix multiplication. The program should print out the resulting matrix.
     
 
-### A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
+### Palindrome_Checker:
+   A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
     
