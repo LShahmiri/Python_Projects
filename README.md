@@ -44,5 +44,5 @@ Rules of the game:
     
 
 ### Palindrome_Checker:
-   A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
+    A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
     
