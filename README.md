@@ -42,5 +42,5 @@ Rules of the game:
 ### Matrix Multiplication:
     A program that takes in two matrices as input and performs matrix multiplication. The program should print out the resulting matrix.
 
-
+### A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
     
