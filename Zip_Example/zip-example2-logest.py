@@ -7,7 +7,7 @@ heights = [175, 164, 170]
 # Use zip_longest to combine the three lists into a single iterable
 person_data = itertools.zip_longest(names, ages, heights, fillvalue=None)
 
-# Create a dictionary to hold the personla data
+# Create a dictionary to hold the personal data
 person_dict = {}
 
 
