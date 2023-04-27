@@ -45,4 +45,6 @@ Rules of the game:
 
 ### Palindrome_Checker:
     A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
+### Fibonacci_Sequence
+    A program that generates the Fibonacci sequence up to a specified number of terms. The program should store the sequence in a list.
     
