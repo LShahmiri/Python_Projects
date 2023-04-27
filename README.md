@@ -47,6 +47,6 @@ Rules of the game:
     A program that checks whether a given string is a palindrome or not. The program should use a list to store the characters in the string
 ### Fibonacci_Sequence
     A program that generates the Fibonacci sequence up to a specified number of terms. The program should store the sequence in a list.
-### Zip_examples
+### Zip_Examples
     zip is a built-in Python function that is used to combine two or more iterables (lists, tuples, etc.) into a single iterable. zip is a built-in Python function  that is used to combine two or more iterables (lists, tuples, etc.) into a single iterable. we assume that the names, ages, and heights lists are all the same length. If they are not the same length, zip will only include elements up to the length of the shortest iterable. To handle this case, we could use the itertools.zip_longest function instead of zip, which will include all elements from all iterables and fill missing values with a specified default value.
     
